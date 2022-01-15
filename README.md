@@ -1,2 +1,2 @@
-# Augmented_image
-Use of image tranformation to get new images with the same labels
+# Augmented image
+Artificial intelligence and machine learning algorithms need a big amount of data to produce a robust classification model with a hight accuracy , however, in real worlds, it is so hard to label all the image data. The solution is to apply some image transformation (Rotate, Posterize, Solarize, Color, Contrast, Brightness, Sharpness, Cutout...) on the original data image to have a new labeled Dataset.
